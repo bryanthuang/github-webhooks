@@ -1,1 +1,3 @@
 # github-webhooks
+
+```npm install```
